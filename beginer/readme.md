@@ -5,8 +5,11 @@
 
 ## Wordpress
 
+Essential Plugins
+
 - ACF
 - Timber
+- Duplicator
 
 ## Tools
 
