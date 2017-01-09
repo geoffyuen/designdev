@@ -30,9 +30,9 @@ My bookmarks for all things design and frontend related.
 
 ## Cheap Hosting
 
-- http://www.nosupportlinuxhosting.com/ ✔
-- https://www.st-georgehosting.com
-- https://www.fortrabbit.com/
+- http://www.nosupportlinuxhosting.com/ ✔ $1 per month per domain
+- https://www.st-georgehosting.com $1 per month. Up to 5 addon domains.
+- https://www.fortrabbit.com/ $3 per month. PHP7, GIT and Composer.
 
 ## For Designers who think they're Web Designers
 
