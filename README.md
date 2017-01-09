@@ -30,6 +30,8 @@ My bookmarks for all things design and frontend related.
 
 ## Cheap Hosting
 
+- http://www.nosupportlinuxhosting.com/ ✔
+- https://www.st-georgehosting.com
 - https://www.fortrabbit.com/
 
 ## For Designers who think they're Web Designers
