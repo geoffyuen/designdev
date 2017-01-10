@@ -76,6 +76,10 @@ My bookmarks for all things design and frontend related.
 
 - http://koken.me/
 
+## WordPress
+
+- https://www.gravityhelp.com/css-ready-classes-for-gravity-forms/
+
 ## Cheap Hosting
 
 - http://www.nosupportlinuxhosting.com/ ✔ $1 per month per domain
