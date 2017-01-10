@@ -40,7 +40,11 @@ My bookmarks for all things design and frontend related.
 - https://fonts.google.com/specimen/Carrois+Gothic?selection.family=Carrois+Gothic
 - https://fonts.google.com/specimen/Fauna+One
 
-# Web Builders
+## Images
+
+- http://thepatternlibrary.com - repeating backgrounds
+
+## Web Builders
 
 - http://pivot.mediumra.re/chooser.html
 - http://pulp.glitchpack.com/builder
