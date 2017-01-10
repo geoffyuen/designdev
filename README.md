@@ -28,7 +28,11 @@ My bookmarks for all things design and frontend related.
 ## SVG
 
 - https://xvg.now.sh/
+
+## Icons
+
 - https://simpleicons.org/
+- http://iconmonstr.com/
 
 ## Fonts
 
