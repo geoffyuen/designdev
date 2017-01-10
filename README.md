@@ -42,7 +42,11 @@ My bookmarks for all things design and frontend related.
 
 ## Images
 
-- http://thepatternlibrary.com - repeating backgrounds
+### Repeating Patterns
+
+- http://thepatternlibrary.com
+- http://www.dinpattern.com
+- http://pattern8.com
 
 ## Web Builders
 
