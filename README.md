@@ -17,6 +17,10 @@ My bookmarks for all things design and frontend related.
 - http://danielmall.com/
 - http://sachagreif.com/
 
+### Fancy
+
+- https://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/
+
 ## Sketch
 
 - https://animaapp.github.io/Auto-Layout/
@@ -24,6 +28,37 @@ My bookmarks for all things design and frontend related.
 ## SVG
 
 - https://xvg.now.sh/
+- https://simpleicons.org/
+
+## Fonts
+
+- https://fonts.google.com/specimen/Domine?selection.family=Domine:400,700
+- https://fonts.google.com/specimen/Carrois+Gothic?selection.family=Carrois+Gothic
+- https://fonts.google.com/specimen/Fauna+One
+
+# Web Builders
+
+- http://pivot.mediumra.re/chooser.html
+- http://pulp.glitchpack.com/builder
+
+
+## Freelance
+
+- [What does a WP, WP e-commerce site cost?](https://codeable.io/wordpress-website-ecommerce-cost/?utm_source=designernews)
+
+## Programming
+
+- http://mediatemple.net/blog/tips/carousels-dont-have-to-be-complicated/
+- http://ccm.net/faq/9296-php-redirect-to-another-page#relative-absolute-path
+- http://stackoverflow.com/questions/9413127/using-htaccess-to-set-a-sub-directory-as-root-directory
+
+### Email
+
+- http://stackoverflow.com/questions/5982364/is-there-a-html-conditional-statement-for-everything-not-outlook
+
+### Ajax
+
+- http://intercoolerjs.org/
 
 ## CMS
 
