@@ -8,6 +8,7 @@ My bookmarks for all things design and frontend related.
 - [Four lessons on design](https://blog.prototypr.io/a-designers-four-lessons-on-design-acd8b9080170#.fr1ig9lok)
 - https://jennaraecakes.com/
 - https://www.campaignmonitor.com/company/annual-report/2016/
+- https://html5up.net/solid-state - interesting method for slants
 
 ### Portfolios
 
