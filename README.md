@@ -39,6 +39,12 @@ My bookmarks for all things design and frontend related.
 - https://fonts.google.com/specimen/Domine?selection.family=Domine:400,700
 - https://fonts.google.com/specimen/Carrois+Gothic?selection.family=Carrois+Gothic
 - https://fonts.google.com/specimen/Fauna+One
+- https://fonts.google.com/specimen/Abel/
+- https://fonts.google.com/specimen/Amatic+SC/
+- https://fonts.google.com/specimen/Arima+Madurai/
+- https://fonts.google.com/specimen/Changa/
+- https://fonts.google.com/specimen/Kanit/
+- https://fonts.google.com/specimen/Teko/
 
 ## Images
 
