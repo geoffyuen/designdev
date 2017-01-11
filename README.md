@@ -47,6 +47,7 @@ My bookmarks for all things design and frontend related.
 - http://thepatternlibrary.com
 - http://www.dinpattern.com
 - http://pattern8.com
+- http://patternico.com/
 
 ## Web Builders
 
