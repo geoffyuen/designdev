@@ -54,6 +54,7 @@ My bookmarks for all things design and frontend related.
 - http://www.dinpattern.com
 - http://pattern8.com
 - http://patternico.com/
+- http://www.heropatterns.com/ - svg!
 
 ## Web Builders
 
