@@ -9,6 +9,9 @@ My bookmarks for all things design and frontend related.
 - https://jennaraecakes.com/
 - https://www.campaignmonitor.com/company/annual-report/2016/
 - https://html5up.net/solid-state - interesting method for slants
+- https://land-book.com/
+- http://themewich.com/struck/
+- https://universe.openai.com/
 
 ### Portfolios
 
@@ -36,6 +39,7 @@ My bookmarks for all things design and frontend related.
 
 - https://simpleicons.org/
 - http://iconmonstr.com/
+- http://evil-icons.io/
 
 ## Fonts
 
@@ -59,6 +63,10 @@ My bookmarks for all things design and frontend related.
 - http://patternico.com/
 - http://www.heropatterns.com/ - svg!
 
+### Background Videos
+
+- http://www.coverr.co/
+
 ## Web Builders
 
 - http://pivot.mediumra.re/chooser.html
@@ -67,6 +75,7 @@ My bookmarks for all things design and frontend related.
 
 ## Freelance
 
+- http://opensourcedesign.net/jobs/ - pro bono work for open source projects
 - [What does a WP, WP e-commerce site cost?](https://codeable.io/wordpress-website-ecommerce-cost/?utm_source=designernews)
 
 ## Programming
