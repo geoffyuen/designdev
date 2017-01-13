@@ -16,6 +16,9 @@ My bookmarks for all things design and frontend related.
 - http://jessicahische.is/
 - http://danielmall.com/
 - http://sachagreif.com/
+- http://ivomynttinen.com/
+- http://mrmrs.cc/
+- http://jony.io/
 
 ### Fancy
 
