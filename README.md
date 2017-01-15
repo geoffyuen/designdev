@@ -26,6 +26,7 @@ My bookmarks for all things design and frontend related.
 ### Fancy
 
 - https://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/
+- https://www.kunkalabs.com/mixitup/ - a better isotope
 
 ## Sketch
 
