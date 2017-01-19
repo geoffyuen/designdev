@@ -9,3 +9,8 @@
 
     git reset --hard
     git pull
+
+## Delete file from last commit
+
+    git rm <file>
+    git commit --amend
