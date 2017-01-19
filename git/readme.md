@@ -1,4 +1,4 @@
-# Git - common solutions
+# Git Cheatsheet
 
 ## Tuts
 
