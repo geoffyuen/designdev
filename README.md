@@ -92,6 +92,10 @@ My bookmarks for all things design and frontend related.
 - http://ccm.net/faq/9296-php-redirect-to-another-page#relative-absolute-path
 - http://stackoverflow.com/questions/9413127/using-htaccess-to-set-a-sub-directory-as-root-directory
 
+## Services (free?)
+
+- https://carlo.zottmann.org/2013/04/14/google-image-resizer/
+
 ### Email
 
 - http://stackoverflow.com/questions/5982364/is-there-a-html-conditional-statement-for-everything-not-outlook
