@@ -23,10 +23,11 @@ My bookmarks for all things design and frontend related.
 - http://mrmrs.cc/
 - http://jony.io/
 
-### Fancy
+### Fancy it up
 
 - https://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/
 - https://www.kunkalabs.com/mixitup/ - a better isotope
+- https://daneden.github.io/animate.css/ - css animations
 
 ## Sketch
 
