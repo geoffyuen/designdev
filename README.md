@@ -68,6 +68,12 @@ My bookmarks for all things design and frontend related.
 
 - http://www.coverr.co/
 
+### PSD Mockups
+
+- http://www.pixeden.com/psd-mock-up-templates
+- https://www.mockupworld.co/
+- https://www.freecreatives.com/category/mockups
+
 ## Web Builders
 
 - http://pivot.mediumra.re/chooser.html
