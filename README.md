@@ -129,3 +129,7 @@ My bookmarks for all things design and frontend related.
 ## Cool Github Projects
 
 - http://jlord.us/forkngo/
+
+## Tools
+
+- https://www.htmlwasher.com/ removes classes and crud from html
