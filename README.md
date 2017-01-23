@@ -125,3 +125,7 @@ My bookmarks for all things design and frontend related.
 - [Page weight](https://mobiforge.com/research-analysis/the-web-is-doom)
 - [Angled containers](https://kilianvalkhof.com/2017/design/sloped-edges-with-consistent-angle-in-css/)
 - [Perfectly Fitting Text](https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f#.oiox19dxw)
+
+## Cool Github Projects
+
+- http://jlord.us/forkngo/
