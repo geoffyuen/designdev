@@ -112,6 +112,7 @@ My bookmarks for all things design and frontend related.
 - https://github.com/datenstrom/yellow - seems to be very Kirby/Stacey-like but simpler
 - http://koken.me/ - photographers cms
 - http://monstra.org/ - flat file
+- https://sphido.org/
 
 ## WordPress
 
