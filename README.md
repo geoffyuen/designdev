@@ -109,6 +109,7 @@ My bookmarks for all things design and frontend related.
 - https://github.com/ahadb/flat-file-cms - list of cms's
 - https://getkirby.com/ - great docs and features
 - https://github.com/kolber/stacey - seems to be dead (2013)
+- https://github.com/datenstrom/yellow - seems to be very Kirby/Stacey-like but simpler
 - http://koken.me/ - photographers cms
 - http://monstra.org/ - flat file
 
