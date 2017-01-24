@@ -32,6 +32,7 @@ My bookmarks for all things design and frontend related.
 ## Sketch
 
 - https://animaapp.github.io/Auto-Layout/
+- https://www.uxpower.tools/ - style guide, ui
 
 ## SVG
 
