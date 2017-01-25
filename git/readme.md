@@ -14,3 +14,7 @@
 
     git rm <file>
     git commit --amend
+
+## Push branch to remote
+
+    git push -u origin <branch>
