@@ -14,6 +14,14 @@
 
     git rm <file>
     git commit --amend
+    
+## New branch and switch to it
+
+    git checkout -b mynewbranch
+
+## Switch to a branch
+
+    git checkout abranch
 
 ## Push branch to remote
 
