@@ -28,6 +28,7 @@
 - http://koken.me/ - photographers cms
 - http://monstra.org/ - flat file
 - https://sphido.org/
+- https://github.com/cdmedia/cms.js - Clientside static site. Very cool!
 
 ## WordPress
 
