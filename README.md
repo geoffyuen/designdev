@@ -30,6 +30,7 @@ My bookmarks for all things design and frontend related.
 - https://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/
 - https://www.kunkalabs.com/mixitup/ - a better isotope
 - https://daneden.github.io/animate.css/ - css animations
+- https://github.com/davidecalignano/MediumLightbox - Medium-like lightbox
 
 ## Sketch
 
