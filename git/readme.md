@@ -26,3 +26,7 @@
 ## Push branch to remote
 
     git push -u origin <branch>
+
+## Diff last commit
+
+    git diff HEAD^ HEAD
