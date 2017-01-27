@@ -1,6 +1,6 @@
 # Design/Dev Resources
 
-My bookmarks for all things design and frontend related.
+Explore all the bookmarks here or the subfolders above.
 
 ## Inspiration
 
