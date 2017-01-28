@@ -3,7 +3,7 @@
 | Name   | Templating           | Admin       | Pros           | Cons                                              |
 |--------|----------------------|-------------|----------------|---------------------------------------------------|
 | Kirby  | PHP (Twig w/ plugin) | Yes         | Easy, powerful | Price $20 personal, $100 commercial               |
-| Stacey | Twig                 | Easy to use | No             | Not easy to use PHP inside the system, abandoned? |
+| Stacey | Twig                 | No          | Easy           | Not easy to use PHP inside the system, abandoned? |
 | Yellow | PHP                  | Yes         | Easy           | Docs aren't extensive enough?                     |
 | Grav   | Twig                 | Yes         | Easy           | Must learn how to make plugin to use PHP          |
 
