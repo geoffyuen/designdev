@@ -1,5 +1,5 @@
 # Flat File CMSs
 
-|Name|Templates|Comment
-|-|-|
-|Kirby|PHP|Suprising Powerful|
+|Name|Templating|Pros|Cons|
+|----|----------|----|----|
+|Kirby|PHP (Twig with plugin)|Easy to use, surpisingly powerful|Price|
