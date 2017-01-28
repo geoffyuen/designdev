@@ -1,5 +1,7 @@
 # Dev Resources
 
+Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vuejs.
+
 ## Programming
 
 - http://mediatemple.net/blog/tips/carousels-dont-have-to-be-complicated/
