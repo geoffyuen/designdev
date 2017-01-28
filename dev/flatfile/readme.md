@@ -13,4 +13,4 @@ My pick would be Kirby (at this date, Jan 2017) even with the price. Great docs,
 
 ----
 
-^*Formatted ^with ^http://markdowntable.com/
+*Formatted with http://markdowntable.com/
