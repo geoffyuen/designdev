@@ -58,6 +58,7 @@ Explore all the bookmarks here or the subfolders above.
 - https://fonts.google.com/specimen/Changa/
 - https://fonts.google.com/specimen/Kanit/
 - https://fonts.google.com/specimen/Teko/
+- http://wildtype.design/ - lots free
 
 ## Images
 
