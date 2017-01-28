@@ -60,7 +60,9 @@ Explore all the bookmarks here or the subfolders above.
 - https://fonts.google.com/specimen/Kanit/
 - https://fonts.google.com/specimen/Teko/
 - http://wildtype.design/ - lots free
+- http://www.thecreativefeed.com/fonts
 - http://www.thecreativefeed.com/fonts/script/five-boroughs-handwriting-font
+- http://www.thecreativefeed.com/fonts/display/anurati-font
 
 ## Images
 
