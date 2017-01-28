@@ -1,5 +1,7 @@
 # Flat File CMSs
 
+Notes on flat file CMSs (not just blogs).
+
 | Name   | Templating           | Admin | Pros                    | Cons                                              |
 |--------|----------------------|-------|-------------------------|---------------------------------------------------|
 | Kirby  | PHP (Twig w/ plugin) | Yes   | Easy, powerful          | Price $20 personal, $100 commercial               |
