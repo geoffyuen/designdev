@@ -27,6 +27,7 @@ Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vu
 - https://getkirby.com/ - great docs and features
 - https://github.com/kolber/stacey - seems to be dead (2013)
 - https://github.com/datenstrom/yellow - seems to be very Kirby/Stacey-like but simpler. [Also can convert to static](https://developers.datenstrom.se/help/web-server-configuration)
+- https://github.com/BaunCMS/Baun - twig, markdown, blog, panel - looks promising
 - http://koken.me/ - photographers cms
 - http://monstra.org/ - flat file
 - https://sphido.org/
