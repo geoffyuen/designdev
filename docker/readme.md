@@ -1,4 +1,4 @@
-## The simplist docker-compose.yml for LAMP dev
+## The simplest docker-compose.yml for LAMP dev
 
 https://github.com/celsocelante/docker-lamp
 
