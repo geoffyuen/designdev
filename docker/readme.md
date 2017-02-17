@@ -1,3 +1,11 @@
+## The simplist docker-compose.yml for LAMP dev
+
+https://github.com/celsocelante/docker-lamp
+
+    git clone https://github.com/celsocelante/docker-lamp.git
+    docker-compose up -d
+    docker-compose down
+
 ## List images
 
 - `docker ps` in use
