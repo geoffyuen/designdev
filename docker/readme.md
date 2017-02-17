@@ -7,3 +7,11 @@
 
 1. `docker images`
 1. `docker rmi  <IMAGE ID>`
+
+## Remove all containers
+
+    docker rm $(docker ps -a -q)
+
+## Remove all images
+
+    docker rmi $(docker images -q)
