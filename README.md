@@ -64,6 +64,7 @@ Explore all the bookmarks here or the subfolders above.
 - http://www.thecreativefeed.com/fonts
 - http://www.thecreativefeed.com/fonts/script/five-boroughs-handwriting-font
 - http://www.thecreativefeed.com/fonts/display/anurati-font
+- https://www.fontshop.com/free-fonts - lots of free single fonts
 
 ## Images
 
