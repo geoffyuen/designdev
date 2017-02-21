@@ -9,7 +9,7 @@
     	'social_menu' => 'Your Social Account URLs'
     ) );
 
-### Enqueue Jquery that doesn't come install in WP
+### Enqueue Jquery that doesn't come installed in WP (still on v1 at the time of this writing)
 
 functions.php
 
