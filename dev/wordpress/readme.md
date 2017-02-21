@@ -9,6 +9,31 @@
     	'social_menu' => 'Your Social Account URLs'
     ) );
 
+### Enqueue Jquery that doesn't come install in WP
+
+functions.php
+
+    function jquery_enqueue() {
+        wp_enqueue_script('jquery');
+        wp_register_script('jquery', '//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js', false, null);
+    }
+    if ( !is_admin() ) {
+        add_action('wp_enqueue_scripts', 'jquery_enqueue', 11);
+    };
+
+### Enqueue CSS, Googlefonts and JS
+
+    function theme_assets() {
+        wp_enqueue_style( 'googlefonts', 'https://fonts.googleapis.com/css?family=Lato:300,300i,900,900i' );
+        wp_enqueue_style( 'slickcss', 'https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css' );
+        wp_enqueue_style( 'theme-style', get_stylesheet_uri() );
+        wp_deregister_script('jquery');
+        wp_enqueue_script( 'slickjs', 'https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js', array( 'jquery' ), '', true );
+        wp_enqueue_script( 'theme-scripts', get_stylesheet_directory_uri() . '/js/main.js', array( 'jquery', 'slickjs' ), '', true );
+    }
+
+    add_action( 'wp_enqueue_scripts', 'theme_assets' );
+
 ### Change styling of the wysiwyg
 
 functions.php:
