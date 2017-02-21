@@ -1,6 +1,6 @@
 # WordPress
 
-## This I have to lookup every time
+## Things I have to lookup every time
 
 ### Register menus
 
@@ -11,11 +11,15 @@
 
 ### Change styling of the wysiwyg
 
+functions.php:
+
     add_editor_style('editor.css');
 
-Why? If you have white text you can't see it. 
+editor.css:
 
     .mceContentBody.wp-editor {
     	background-color: #ddd;
     	font-family: 'Lato', sans-serif;
     }
+
+Why? If you have white text you can't see it. 
