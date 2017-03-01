@@ -14,6 +14,7 @@ Explore all the bookmarks here or the subfolders above.
 - http://themewich.com/struck/
 - https://universe.openai.com/
 - http://dolfin.com/ - react
+- https://www.upstatement.com/work/technology-review/
 
 ### Portfolios
 
