@@ -45,6 +45,8 @@ Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vu
 - https://www.st-georgehosting.com $1 per month. Up to 5 addon domains.
 - https://www.fortrabbit.com/ $3 per month. PHP7, GIT and Composer.
 - https://wp.land/ Backups, staging
+- https://www.briehost.com/clients/cart.php?gid=18 $2/**year**
+- https://www.arubacloud.com/vps/virtual-private-server-range.aspx $1/mo
 
 ## For Designers who think they're Web Designers
 
