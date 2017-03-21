@@ -33,6 +33,7 @@ Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vu
 - http://monstra.org/ - flat file
 - https://sphido.org/
 - https://github.com/cdmedia/cms.js - Clientside static site. Very cool!
+- https://github.com/netlify/netlify-cms/ - powered by git?
 
 ## WordPress
 
