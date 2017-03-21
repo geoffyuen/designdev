@@ -77,6 +77,7 @@ Explore all the bookmarks here or the subfolders above.
 - http://pattern8.com
 - http://patternico.com/
 - http://www.heropatterns.com/ - svg!
+- http://novapattern.com/ - O_o
 
 ### Background Videos
 
