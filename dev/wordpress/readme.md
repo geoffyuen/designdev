@@ -89,6 +89,10 @@ functions.php
     // Attach callback to 'tiny_mce_before_init'
     add_filter( 'tiny_mce_before_init', 'my_mce_before_init_insert_formats' );
 
+## Redirect Child page to Parent
+
+- http://askwpgirl.com/redirect-parent-page-first-child-page-wordpress/
+
 ## Gravity Forms
 
 - https://gravitywiz.com/
