@@ -54,6 +54,7 @@ Explore all the bookmarks here or the subfolders above.
 
 ## Fonts
 
+- https://fonts.google.com/specimen/Covered+By+Your+Grace - handwriting
 - https://fonts.google.com/specimen/Domine?selection.family=Domine:400,700
 - https://fonts.google.com/specimen/Carrois+Gothic?selection.family=Carrois+Gothic
 - https://fonts.google.com/specimen/Fauna+One
