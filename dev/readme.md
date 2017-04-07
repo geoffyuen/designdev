@@ -8,6 +8,7 @@ Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vu
 - http://mediatemple.net/blog/tips/carousels-dont-have-to-be-complicated/
 - http://ccm.net/faq/9296-php-redirect-to-another-page#relative-absolute-path
 - http://stackoverflow.com/questions/9413127/using-htaccess-to-set-a-sub-directory-as-root-directory
+- http://mmenu.frebsite.nl/documentation/addons/fixed-elements.html off canvas scrollable menu
 
 ## Services (free?)
 
