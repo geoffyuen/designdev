@@ -96,3 +96,7 @@ functions.php
 ## Gravity Forms
 
 - https://gravitywiz.com/
+
+## Collection of functions.php snippets:
+
+- http://wordpress.stackexchange.com/questions/1567/best-collection-of-code-for-your-functions-php-file
