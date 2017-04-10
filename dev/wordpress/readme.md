@@ -100,3 +100,7 @@ functions.php
 ## Collection of functions.php snippets:
 
 - http://wordpress.stackexchange.com/questions/1567/best-collection-of-code-for-your-functions-php-file
+
+## Plugin maker CRUD thingy
+
+- http://projects.tareq.co/wp-generator/
