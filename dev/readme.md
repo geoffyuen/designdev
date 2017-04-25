@@ -67,3 +67,9 @@ Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vu
 ## PHP
 
 - https://github.com/Upstatement/twig-environment
+
+## IE11 devtools fix for Modern.ie
+
+Download update here: http://www.microsoft.com/en-us/download/details.aspx?id=45134
+
+Details: https://github.com/xdissent/ievms/issues/246
