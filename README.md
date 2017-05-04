@@ -29,6 +29,10 @@ Explore all the bookmarks here or the subfolders above.
 - http://mrmrs.cc/
 - http://jony.io/
 
+### Guidelines
+
+- https://developer.apple.com/design/tips/
+
 ### Fancy it up
 
 - https://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/
@@ -70,7 +74,6 @@ Explore all the bookmarks here or the subfolders above.
 - http://www.thecreativefeed.com/fonts/script/five-boroughs-handwriting-font
 - http://www.thecreativefeed.com/fonts/display/anurati-font
 - https://www.fontshop.com/free-fonts - lots of free single fonts
-
 - http://fontba.se/ - Free font manager
 
 ## Images
