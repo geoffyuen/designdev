@@ -78,6 +78,9 @@ Explore all the bookmarks here or the subfolders above.
 
 ## Images
 
+- https://burst.shopify.com/ - yep, from Shopify
+- https://community.unsplash.com/developersblog/the-unsplash-api-is-now-open-free
+
 ### Repeating Patterns
 
 - http://thepatternlibrary.com
