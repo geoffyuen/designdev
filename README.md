@@ -37,6 +37,7 @@ Explore all the bookmarks here or the subfolders above.
 
 - https://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/
 - https://www.kunkalabs.com/mixitup/ - a better isotope ($)
+- https://github.com/haltu/muuri - free alt to isotope?
 - http://yiotis.net/filterizr/ - another isotope
 - https://daneden.github.io/animate.css/ - css animations
 - https://github.com/davidecalignano/MediumLightbox - Medium-like lightbox
