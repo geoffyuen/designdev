@@ -8,6 +8,7 @@ Explore all the bookmarks here or the subfolders above.
 
 ## Inspiration
 
+- https://dribbble.com/bdc - Stripe design head?
 - https://www.invisionapp.com/end-of-year
 - https://gyrosco.pe/2016/
 - [Four lessons on design](https://blog.prototypr.io/a-designers-four-lessons-on-design-acd8b9080170#.fr1ig9lok)
