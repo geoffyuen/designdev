@@ -5,6 +5,7 @@ Explore all the bookmarks here or the subfolders above.
 ## UX
 
 - http://blog.deathtobullshit.com/ - All you need to read is here... no, really
+- https://uxplanet.org/ux-writing-how-to-do-it-like-google-with-this-powerful-checklist-e263cc37f5f1
 
 ## Inspiration
 
