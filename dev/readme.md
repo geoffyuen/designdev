@@ -10,6 +10,10 @@ Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vu
 - http://stackoverflow.com/questions/9413127/using-htaccess-to-set-a-sub-directory-as-root-directory
 - http://mmenu.frebsite.nl/documentation/addons/fixed-elements.html off canvas scrollable menu
 
+## React
+
+- http://www.learnreact.design/2017/06/08/what-is-react/ , [DN Post](https://www.designernews.co/stories/84472-what-is-react--an-illustrated-intro-react-course-for-designers-update-2)
+
 ## Services (free?)
 
 - https://carlo.zottmann.org/2013/04/14/google-image-resizer/
