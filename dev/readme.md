@@ -4,6 +4,7 @@ Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vu
 
 ## Programming
 
+- https://www.youtube.com/watch?v=7vUs5yOuv-o - Instantly loading everything (2017)
 - http://gethead.info - <head> cheatsheet
 - http://mediatemple.net/blog/tips/carousels-dont-have-to-be-complicated/
 - http://ccm.net/faq/9296-php-redirect-to-another-page#relative-absolute-path
