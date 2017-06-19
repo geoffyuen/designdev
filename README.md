@@ -41,6 +41,7 @@ Explore all the bookmarks here or the subfolders above.
 
 ### Fancy it up
 
+- https://github.com/micku7zu/vanilla-tilt.js - 3d tilt effect
 - https://www.youtube.com/watch?v=LXgmD6kGkmI - Sequential Art, Comics & SVGs
 - https://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/
 - https://www.kunkalabs.com/mixitup/ - a better isotope ($)
