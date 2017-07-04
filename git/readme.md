@@ -30,3 +30,7 @@
 ## Diff last commit
 
     git diff HEAD^ HEAD
+
+## List remotes
+
+    get remote -v
