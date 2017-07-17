@@ -135,3 +135,6 @@ Explore all the bookmarks here or the subfolders above.
 - http://opensourcedesign.net/jobs/ - pro bono work for open source projects
 - [What does a WP, WP e-commerce site cost?](https://codeable.io/wordpress-website-ecommerce-cost/?utm_source=designernews)
 
+## Design for Devs. The Basics.
+
+- https://www.fastcodesign.com/3044133/a-rare-interview-with-graphic-design-legend-massimo-vignelli
