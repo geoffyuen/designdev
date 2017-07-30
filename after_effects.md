@@ -1,1 +1,2 @@
+- https://www.youtube.com/watch?v=ZVrYyX3bHI8 - Parallax from PSD theory
 - https://www.youtube.com/watch?v=CHuOT_KVaLE - Parallax from PSD
