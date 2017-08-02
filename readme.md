@@ -122,7 +122,7 @@ Explore all the bookmarks here or the subfolders above.
 - http://designresources.party/ - tons of stuff from graphical assets to technical docs
 - https://pixelbuddha.net/freebies - goodness!
 
-* May not be free
+*May not be free
 
 ## Wireframing, Graphical Prototypes
 
