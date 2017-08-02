@@ -117,9 +117,12 @@ Explore all the bookmarks here or the subfolders above.
 - https://www.mockupworld.co/
 - https://www.freecreatives.com/category/mockups
 
-## All in one Freebies!
+## All in one Freebies!*
 
+- http://designresources.party/ - tons of stuff from graphical assets to technical docs
 - https://pixelbuddha.net/freebies - goodness!
+
+* May not be free
 
 ## Wireframing, Graphical Prototypes
 
