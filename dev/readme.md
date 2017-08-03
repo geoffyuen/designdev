@@ -26,6 +26,7 @@ Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vu
 
 ### Email
 
+- http://bojler.slicejack.com/ Email framework
 - http://stackoverflow.com/questions/5982364/is-there-a-html-conditional-statement-for-everything-not-outlook
 
 ### Ajax
