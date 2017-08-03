@@ -85,7 +85,21 @@ functions.php
         return $init_array;
     }
 
+### Get posts with a taxonomy
 
+    $args = array(
+        'post_type' => 'post',
+        'tax_query' => array(
+            array(
+                'taxonomy' => 'people',
+                'field'    => 'slug',
+                'terms'    => 'bob',
+            ),
+        ),
+    );
+    $query = new WP_Query( $args );
+    
+Ref: https://codex.wordpress.org/Class_Reference/WP_Query#Taxonomy_Parameters
     // Attach callback to 'tiny_mce_before_init'
     add_filter( 'tiny_mce_before_init', 'my_mce_before_init_insert_formats' );
 
