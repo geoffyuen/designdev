@@ -57,6 +57,8 @@ Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vu
 - https://about.gitlab.com/features/pages/ - static or *any* static site generator (Jekyll, Middleman, Hugo, etc.)
 - https://pages.github.com/ - static html or Jekyll
 
+*may not be used for commerical purposes?
+
 ## Cheap Hosting
 
 - https://www.vultr.com/pricing/ - ✔ starts at $2.50 per month 
