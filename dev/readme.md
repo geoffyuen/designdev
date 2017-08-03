@@ -53,6 +53,7 @@ Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vu
 
 ## Cheap Hosting
 
+- https://www.vultr.com/pricing/ - ✔ starts at $2.50 per month 
 - http://www.nosupportlinuxhosting.com/ ✔ $1 per month per domain
 - https://www.st-georgehosting.com $1 per month. Up to 5 addon domains.
 - https://www.fortrabbit.com/ $3 per month. PHP7, GIT and Composer.
