@@ -2,6 +2,10 @@
 
 Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vuejs.
 
+## Sass
+
+- https://medium.com/@AhmadYousefDev/useful-color-generators-in-scss-f2232a1d964e - colour management (OOCSS style)
+
 ## Programming
 
 - https://www.youtube.com/watch?v=7vUs5yOuv-o - Instantly loading everything (2017)
