@@ -84,6 +84,8 @@ functions.php
         $init_array['style_formats'] = json_encode( $style_formats );
         return $init_array;
     }
+    // Attach callback to 'tiny_mce_before_init'
+    add_filter( 'tiny_mce_before_init', 'my_mce_before_init_insert_formats' );
 
 ### Get posts with a taxonomy
 
@@ -100,8 +102,6 @@ functions.php
     $query = new WP_Query( $args );
     
 Ref: https://codex.wordpress.org/Class_Reference/WP_Query#Taxonomy_Parameters
-    // Attach callback to 'tiny_mce_before_init'
-    add_filter( 'tiny_mce_before_init', 'my_mce_before_init_insert_formats' );
 
 ## Redirect Child page to Parent
 
