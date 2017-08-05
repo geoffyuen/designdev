@@ -91,6 +91,7 @@ Explore all the bookmarks here or the subfolders above.
 - http://www.thecreativefeed.com/fonts/display/anurati-font
 - https://www.fontshop.com/free-fonts - lots of free single fonts
 - http://fontba.se/ - Free font manager
+- http://fontdrop.me/Download - Font Manager
 
 ## Images
 
