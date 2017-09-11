@@ -107,6 +107,10 @@ Ref: https://codex.wordpress.org/Class_Reference/WP_Query#Taxonomy_Parameters
 
 - http://askwpgirl.com/redirect-parent-page-first-child-page-wordpress/
 
+## WYSIWYG classes
+
+- https://digwp.com/2010/05/default-wordpress-css-styles-hooks/
+
 ## Gravity Forms
 
 - https://gravitywiz.com/
