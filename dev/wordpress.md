@@ -111,6 +111,10 @@ Ref: https://codex.wordpress.org/Class_Reference/WP_Query#Taxonomy_Parameters
 
 - https://digwp.com/2010/05/default-wordpress-css-styles-hooks/
 
+## Change user password via phpmyadmin
+
+- http://www.wpbeginner.com/beginners-guide/how-to-reset-a-wordpress-password-from-phpmyadmin/
+
 ## Gravity Forms
 
 - https://gravitywiz.com/
