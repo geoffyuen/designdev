@@ -1,3 +1,5 @@
+- [URLs and Paths](#urlsandpaths)
+- [Debugging](#debuging)
 - [Menus](#menus)
 
 ## Menus
@@ -27,10 +29,13 @@ If you want to use the Timber nav walker, add the menu to the timber context:
 	}
 ```
 
+## URLs and Paths
 
 Theme url (for accessing theme assets like images, etc);
 
 `{{ theme.link }}`
+
+## Debuging
 
 To use  `{{ dump(something) }}` add this to \wp_config.php :
 
