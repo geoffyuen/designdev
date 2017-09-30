@@ -2,6 +2,13 @@
 - [Debugging](#debuging)
 - [Menus](#menus)
 
+## jQuery
+
+```
+jQuery(document).ready(function($) {
+});
+```
+
 ## Menus
 
 I use this in twig:
