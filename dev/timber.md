@@ -1,4 +1,4 @@
-- [URLs and Paths](#urlsandpaths)
+- [URLs and Paths](#urls-and-paths)
 - [Debugging](#debuging)
 - [Menus](#menus)
 
