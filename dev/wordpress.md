@@ -126,3 +126,11 @@ Ref: https://codex.wordpress.org/Class_Reference/WP_Query#Taxonomy_Parameters
 ## Plugin maker CRUD thingy
 
 - http://projects.tareq.co/wp-generator/
+
+## MySQL posts showing return and newline characters \r\n
+
+```
+UPDATE `wp_posts` SET `post_content` = REPLACE(`post_content`, '\\r\\n', '\r\n');
+UPDATE `wp_posts` SET `post_content` = REPLACE(`post_content`, '\\n', '\n');
+UPDATE `wp_posts` SET `post_content` = REPLACE(`post_content`, '\\r', '\r');
+```
