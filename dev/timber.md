@@ -4,6 +4,14 @@
 - [Debugging](#debuging)
 - [Menus](#menus)
 
+## Comment Form with WPML
+
+The Timber Starter theme needs the 2 letter language code added inside the custom comment form to return to the correct page after submitting:
+
+```
+<input name="wpml_language_code" type="hidden" value="{{ site.language|split('-')[0] }}">
+```
+
 ## jQuery
 
 ```
