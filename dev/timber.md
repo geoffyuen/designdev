@@ -19,7 +19,7 @@ to
 <form id="form" class="comment-form" method="post" action="{{ fn('get_option','siteurl') }}/wp-comments-post.php">
 ```
 
-The reason for this change is that WPML adds the two letter language to the site.url (or maybe Timber does...). Eg. If you're in the French site, the url will be `thesitedomain.com/fr`. This will trip up the form submission unless you change it.
+The reason for this change is that WPML adds the two letter language to the site.url / site.link (or maybe Timber does...). Eg. If you're in the French site, the url will be `thesitedomain.com/fr`. This will trip up the form submission unless you change it.
 
 Addtionally, the form needs the 2 letter language code added inside the custom comment form to return to the correct page after submitting:
 
