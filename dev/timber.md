@@ -35,7 +35,7 @@ When you do a string translation scan on your theme, WPML only crawls through `.
 echo "<?php">index.php ; cat *.twig >> index.php
 ```
 
-It doesn't matter that the result isn't really php.
+It doesn't matter that the result isn't really php. All WPML is scanning for is `__("Your string to be translated", "Your theme text-domain")`.
 
 ## jQuery
 
