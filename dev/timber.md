@@ -6,7 +6,22 @@
 
 ## Comment Form with WPML
 
-The Timber Starter theme needs the 2 letter language code added inside the custom comment form to return to the correct page after submitting:
+First, the form needs to submit to the correct url:
+
+Change the action from this
+```
+<form id="form" class="comment-form" method="post" action="{{ site.url ~ '/wp-comments-post.php' }}">
+```
+
+to
+
+```
+<form id="form" class="comment-form" method="post" action="/wp-comments-post.php">
+```
+
+This assumes that Wordpress is installed at the root of the domain - otherwise use `get_option('siteurl')`. The reason for this change is that WPML adds the two letter language to the site.url. Eg. If you're in the French site, the url will be thesitedomain.com/fr. This will trip up the form submission unless you change it.
+
+Addtionally, the form needs the 2 letter language code added inside the custom comment form to return to the correct page after submitting:
 
 ```
 <input name="wpml_language_code" type="hidden" value="{{ site.language|split('-')[0] }}">
