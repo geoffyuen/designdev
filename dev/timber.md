@@ -27,6 +27,16 @@ Addtionally, the form needs the 2 letter language code added inside the custom c
 <input name="wpml_language_code" type="hidden" value="{{ site.language|split('-')[0] }}">
 ```
 
+## Theme translation hack for WPML String Translation
+
+When you do a string translation scan on your theme, WPML only crawls through `.php` files and not your `.twig` files. A way around this is to concatenate your `.twig` files into a a `.php` file and then do a scan. In you templates folder do this:
+
+```
+echo "<?php">index.php ; cat *.twig >> index.php
+```
+
+It doesn't matter that the result isn't really php.
+
 ## jQuery
 
 ```
