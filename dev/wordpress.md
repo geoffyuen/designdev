@@ -134,3 +134,12 @@ UPDATE `wp_posts` SET `post_content` = REPLACE(`post_content`, '\\r\\n', '\r\n')
 UPDATE `wp_posts` SET `post_content` = REPLACE(`post_content`, '\\n', '\n');
 UPDATE `wp_posts` SET `post_content` = REPLACE(`post_content`, '\\r', '\r');
 ```
+
+## Don't use Contact Form 7 CSS
+
+```
+add_action( 'wp_print_styles', 'wps_deregister_styles', 100 );
+function wps_deregister_styles() {
+    wp_deregister_style( 'contact-form-7' );
+}
+```
