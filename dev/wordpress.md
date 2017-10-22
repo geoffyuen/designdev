@@ -143,3 +143,17 @@ function wps_deregister_styles() {
     wp_deregister_style( 'contact-form-7' );
 }
 ```
+
+## Add custom class or id to Contact Form 7
+
+Form specific:
+
+```
+[contact-form-7 id="1234" title="Contact form 1" html_id="contact-form-1234" html_class="form contact-form"]
+```
+
+Field specific:
+
+```
+[text* first-name class:full class:field placeholder "FIRST NAME"]
+```
