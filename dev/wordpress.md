@@ -159,9 +159,36 @@ Field specific:
 ```
 ## Woocommerce
 
+- https://code.tutsplus.com/categories/woocommerce
+
 ### Subscription - let user choose length via dropdown
 
-https://docs.woocommerce.com/document/subscriptions/faq/#section-12
+- https://docs.woocommerce.com/document/subscriptions/faq/#section-12
 
 TLDR: Use *variable subscriptions*. Create attribute (eg. Months). Create variations from the attribute. 
 Result will be a select on the frontend.
+
+### Customize the checkout page
+
+- https://www.uploadwp.com/customizing-the-woocommerce-checkout-page/
+
+### Add fields to checkout
+
+- https://docs.woocommerce.com/document/checkout-field-editor/
+- http://www.increativeweb.com/create-conditional-checkout-fields-woocommerce
+
+### Hide shipping form for local pickup on checkout
+
+- https://businessbloomer.com/woocommerce-hide-shipping-local-pickup-selected/
+
+### Limit shipping to one state
+
+- https://businessbloomer.com/woocommerce-limit-shipping-one-state/
+
+### Choose pickup time for local pickup (only on sameday)
+
+- https://github.com/mattbanks/woocommerce-local-pickup-time
+
+### Product with no price, just for viewing
+
+- http://kb.oboxthemes.com/articles/woocommerce-how-to-setup-display-only-or-virtual-products/
