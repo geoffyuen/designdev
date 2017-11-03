@@ -160,6 +160,20 @@ Field specific:
 ## Woocommerce
 
 - https://code.tutsplus.com/categories/woocommerce
+- http://chrislema.com/woocommerce-category-pages/
+
+### Single Product Hooks Visual Guide
+
+- https://businessbloomer.com/woocommerce-visual-hook-guide-single-product-page/
+
+### Reorder single product template
+
+- http://ohsoren.github.io/reorder-single-product-template/
+
+### When to use hooks, templates
+
+- https://www.speakinginbytes.com/2016/06/woocommerce-use-hooks-use-templates/
+- http://wpcandy.com/teaches/how-to-use-wordpress-hooks/
 
 ### Subscription - let user choose length via dropdown
 
@@ -192,3 +206,7 @@ Result will be a select on the frontend.
 ### Product with no price, just for viewing
 
 - http://kb.oboxthemes.com/articles/woocommerce-how-to-setup-display-only-or-virtual-products/
+
+### Change Select Text for variations
+
+- https://gist.github.com/targetimc/b92dbf2ebde2bc5e54e8967f9bf7d149
