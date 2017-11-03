@@ -157,3 +157,11 @@ Field specific:
 ```
 [text* first-name class:full class:field placeholder "FIRST NAME"]
 ```
+## Woocommerce
+
+### Subscription - let user choose length via dropdown
+
+https://docs.woocommerce.com/document/subscriptions/faq/#section-12
+
+TLDR: Use *variable subscriptions*. Create attribute (eg. Months). Create variations from the attribute. 
+Result will be a select on the frontend.
