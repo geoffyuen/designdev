@@ -1,9 +1,13 @@
 # Update Dependencies
 
+Install npm chekc updates:
+```
+npm install npm-check-updates -g
+```
+
 In your package.json folder:
 
 ```
-npm install npm-check-updates -g
 npm-check-updates
 npm-check-updates -u
 ```
