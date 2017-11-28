@@ -103,6 +103,22 @@ functions.php
     
 Ref: https://codex.wordpress.org/Class_Reference/WP_Query#Taxonomy_Parameters
 
+## Add honeypot to comment form
+
+```
+function elio_add_honeypot() {
+    echo '<p style="display:none!important"><input type="text" name="gc-email-verify" id="gc-email-verify"></p>';
+}
+function elio_check_honeypot( $approved ) {
+    return empty( $_POST['gc-email-verify'] ) ? $approved : 'spam';
+}
+
+add_action( 'comment_form', 'elio_add_honeypot' );
+add_filter( 'pre_comment_approved', 'elio_check_honeypot' );
+```
+
+- https://elio.blog/2014/04/prevent-wordpress-comment-spam-with-a-honeypot/
+
 ## Redirect Child page to Parent
 
 - http://askwpgirl.com/redirect-parent-page-first-child-page-wordpress/
@@ -210,3 +226,4 @@ Result will be a select on the frontend.
 ### Change Select Text for variations
 
 - https://gist.github.com/targetimc/b92dbf2ebde2bc5e54e8967f9bf7d149
+
