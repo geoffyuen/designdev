@@ -2,6 +2,35 @@
 
 ## Things I have to lookup every time
 
+- [Register menus](#register-menus)
+- [Enqueue Jquery that doesn't come installed in WP (still on v1 at the time of this writing)](#enqueue-jquery-that-doesnt-come-installed-in-wp-still-on-v1-at-the-time-of-this-writing)
+- [Enqueue CSS, Googlefonts and JS](#enqueue-css-googlefonts-and-js)
+- [Change styling of the wysiwyg](#change-styling-of-the-wysiwyg)
+- [Add .classes to the wysiwg dropdown menu](#add-classes-to-the-wysiwg-dropdown-menu)
+- [Get posts with a taxonomy](#get-posts-with-a-taxonomy)
+- [Add honeypot to comment form](#add-honeypot-to-comment-form)
+- [Redirect Child page to Parent](#redirect-child-page-to-parent)
+- [WYSIWYG classes](#wysiwyg-classes)
+- [Change user password via phpmyadmin](#change-user-password-via-phpmyadmin)
+- [Gravity Forms](#gravity-forms)
+- [Collection of functions.php snippets:](#collection-of-functionsphp-snippets)
+- [Plugin maker CRUD thingy](#plugin-maker-crud-thingy)
+- [MySQL posts showing return and newline characters \r\n](#mysql-posts-showing-return-and-newline-characters-rn)
+- [Don't use Contact Form 7 CSS](#dont-use-contact-form-7-css)
+- [Add custom class or id to Contact Form 7](#add-custom-class-or-id-to-contact-form-7)
+- [Woocommerce](#woocommerce)
+- [Single Product Hooks Visual Guide](#single-product-hooks-visual-guide)
+- [Reorder single product template](#reorder-single-product-template)
+- [When to use hooks, templates](#when-to-use-hooks-templates)
+- [Subscription - let user choose length via dropdown](#subscription---let-user-choose-length-via-dropdown)
+- [Customize the checkout page](#customize-the-checkout-page)
+- [Add fields to checkout](#add-fields-to-checkout)
+- [Hide shipping form for local pickup on checkout](#hide-shipping-form-for-local-pickup-on-checkout)
+- [Limit shipping to one state](#limit-shipping-to-one-state)
+- [Choose pickup time for local pickup (only on sameday)](#choose-pickup-time-for-local-pickup-only-on-sameday)
+- [Product with no price, just for viewing](#product-with-no-price-just-for-viewing)
+- [Change Select Text for variations](#change-select-text-for-variations)
+
 ### Register menus
 
     register_nav_menus( array(
