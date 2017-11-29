@@ -146,6 +146,8 @@ add_action( 'comment_form', 'elio_add_honeypot' );
 add_filter( 'pre_comment_approved', 'elio_check_honeypot' );
 ```
 
+If you're using Timber, you should manually add the field in the first function. At this time I'm not sure if the filter (2nd function) actually fires.
+
 - https://elio.blog/2014/04/prevent-wordpress-comment-spam-with-a-honeypot/
 
 ## Redirect Child page to Parent
