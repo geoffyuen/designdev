@@ -1,4 +1,4 @@
-# Timber, Twig, Wordpress Cheatsheet- [Timber, Twig, Wordpress Cheatsheet](#timber-twig-wordpress-cheatsheet)
+# [Timber, Twig, Wordpress Cheatsheet](#timber-twig-wordpress-cheatsheet)
 
 - [Documentation](#documentation)
 - [Comment Form with WPML](#comment-form-with-wpml)
