@@ -1,12 +1,12 @@
 # Timber, Twig, Wordpress Cheatsheet- [Timber, Twig, Wordpress Cheatsheet](#timber-twig-wordpress-cheatsheet)
 
-    - [Documentation](#documentation)
-    - [Comment Form with WPML](#comment-form-with-wpml)
-    - [Theme translation hack for WPML String Translation](#theme-translation-hack-for-wpml-string-translation)
-    - [jQuery](#jquery)
-    - [Menus](#menus)
-    - [URLs and Paths](#urls-and-paths)
-    - [Debuging](#debuging)
+- [Documentation](#documentation)
+- [Comment Form with WPML](#comment-form-with-wpml)
+- [Theme translation hack for WPML String Translation](#theme-translation-hack-for-wpml-string-translation)
+- [jQuery](#jquery)
+- [Menus](#menus)
+- [URLs and Paths](#urls-and-paths)
+- [Debuging](#debuging)
 
 ## Documentation
 
