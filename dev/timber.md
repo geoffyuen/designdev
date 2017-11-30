@@ -98,3 +98,8 @@ ini_set('error_reporting', E_ALL );
 define('WP_DEBUG', true);
 define('WP_DEBUG_DISPLAY', false);
 ```
+
+## Integrating with Woocommerce 
+
+- some great information starting here: https://github.com/timber/timber/issues/79#issuecomment-42515989
+- should be aware that these methods may not be compatible with WC plugins/addons because of WC's heavy use of actions and hooks
