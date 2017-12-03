@@ -101,8 +101,9 @@ define('WP_DEBUG_DISPLAY', false);
 
 ## Integrating with Woocommerce 
 
-- some great information starting here: https://github.com/timber/timber/issues/79#issuecomment-42515989
+- Skeleton templates: https://github.com/timber/timber/blob/master/docs/guides/woocommerce.md
+- some great information starting here (apply to the above): https://github.com/timber/timber/issues/79#issuecomment-42515989
 - should be aware that these methods may not be compatible with WC plugins/addons because of WC's heavy use of actions and hooks
+- the basic gist is: WC groups a bunch of elements actions; remove things of the actions (desc, price, etc) and reinsert them using twig. You should keep the do_actions in there so that plugins will still work. I suspect it'll take a lot of trial and error to get things to appear like you want them to.
 - product class: http://docs.woothemes.com/wc-apidocs/class-WC_Product.html
 - WooCommerce object: http://docs.woothemes.com/document/class-reference/
-- Using with Timber: https://github.com/timber/timber/blob/master/docs/guides/woocommerce.md
