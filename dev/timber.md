@@ -105,3 +105,4 @@ define('WP_DEBUG_DISPLAY', false);
 - should be aware that these methods may not be compatible with WC plugins/addons because of WC's heavy use of actions and hooks
 - product class: http://docs.woothemes.com/wc-apidocs/class-WC_Product.html
 - WooCommerce object: http://docs.woothemes.com/document/class-reference/
+- Using with Timber: https://github.com/timber/timber/blob/master/docs/guides/woocommerce.md
