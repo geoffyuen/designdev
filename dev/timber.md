@@ -107,3 +107,4 @@ define('WP_DEBUG_DISPLAY', false);
 - the basic gist is: WC groups a bunch of elements in actions; remove things from the actions (desc, price, etc) and reinsert them using twig. You should keep the do_actions in there so that plugins will still work. I suspect it'll take a lot of trial and error to get things to appear like you want them to.
 - product class: http://docs.woothemes.com/wc-apidocs/class-WC_Product.html
 - WooCommerce object: http://docs.woothemes.com/document/class-reference/
+- snippet to put cart link in your header: https://gist.github.com/geoffyuen/505240d02b992157ccc0a771575b3f6f
