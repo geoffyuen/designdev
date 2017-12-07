@@ -30,13 +30,15 @@ http://www.alwaystwisted.com/articles/updating-dependencies-in-a-packagejson
 
 ## Is Browser-sync refreshing slowly?
 
-Are you using a .local domain? Change it to something else like .dev.
+Are you using a .local domain? Change it to something else like .dev. MacOS uses .local which may be interfering with it.
 
 ----
 
 https://stackoverflow.com/questions/24807786/browsersync-extremely-slow
 
 ## No Browser-sync in your Gulp?
+
+Launch it separately:
 
 ```
 browser-sync start -p 'your.local.domain.or.ip.dev' -f './*.php' './*.css' './views/**/*.twig' './js/**/*.js'
