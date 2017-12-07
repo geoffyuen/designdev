@@ -1,5 +1,9 @@
 # WordPress
 
+## Plugins
+
+- Login Designer: https://wordpress.org/plugins/login-designer/
+
 ## Things I have to lookup every time
 
 - [Register menus](#register-menus)
