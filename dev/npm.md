@@ -1,6 +1,5 @@
 # Misc. node shit
 
-- [Misc. node shit](#misc-node-shit)
 - [Update your dependencies](#update-your-dependencies)
 - [Is Browser-sync refreshing slowly?](#is-browser-sync-refreshing-slowly)
 - [No Browser-sync in your Gulp?](#no-browser-sync-in-your-gulp)
