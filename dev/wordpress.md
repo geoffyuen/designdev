@@ -274,3 +274,4 @@ Result will be a select on the frontend.
   - https://gerhardpotgieter.com/2013/09/09/woocommerce-product-quantity-dropdown/
 - get category for product page: https://stackoverflow.com/questions/15303031/woocommerce-get-category-for-product-page
 - purchase limits: https://www.cloudways.com/blog/set-purchase-limits-on-woocommerce/
+- product coming soon plugin (free): http://terrytsang.com/shop/shop/woocommerce-coming-soon-product/
