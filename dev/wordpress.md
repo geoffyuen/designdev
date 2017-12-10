@@ -276,3 +276,4 @@ Result will be a select on the frontend.
 - purchase limits: https://www.cloudways.com/blog/set-purchase-limits-on-woocommerce/
 - product coming soon plugin (free): http://terrytsang.com/shop/shop/woocommerce-coming-soon-product/
 - min/max quanities without plugin? https://www.tychesoftwares.com/how-to-set-minimum-and-maximum-allowable-product-quantities-to-be-added-in-woocommerce-cart/
+  - This one works ok: https://wordpress.org/plugins/woocommerce-max-quantity/
