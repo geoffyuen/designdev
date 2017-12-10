@@ -277,3 +277,4 @@ Result will be a select on the frontend.
 - product coming soon plugin (free): http://terrytsang.com/shop/shop/woocommerce-coming-soon-product/
 - min/max quanities without plugin? https://www.tychesoftwares.com/how-to-set-minimum-and-maximum-allowable-product-quantities-to-be-added-in-woocommerce-cart/
   - This one works ok: https://wordpress.org/plugins/woocommerce-max-quantity/
+- update your custom cart info area when WC uses ajax to update quantities: https://gist.github.com/geoffyuen/8646723e9279834ee3864963809b357d
