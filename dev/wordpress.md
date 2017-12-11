@@ -22,18 +22,7 @@
 - [MySQL posts showing return and newline characters \r\n](#mysql-posts-showing-return-and-newline-characters-rn)
 - [Don't use Contact Form 7 CSS](#dont-use-contact-form-7-css)
 - [Add custom class or id to Contact Form 7](#add-custom-class-or-id-to-contact-form-7)
-- [Woocommerce](#woocommerce)
-- [Single Product Hooks Visual Guide](#single-product-hooks-visual-guide)
-- [Reorder single product template](#reorder-single-product-template)
-- [When to use hooks, templates](#when-to-use-hooks-templates)
-- [Subscription - let user choose length via dropdown](#subscription---let-user-choose-length-via-dropdown)
-- [Customize the checkout page](#customize-the-checkout-page)
-- [Add fields to checkout](#add-fields-to-checkout)
-- [Hide shipping form for local pickup on checkout](#hide-shipping-form-for-local-pickup-on-checkout)
-- [Limit shipping to one state](#limit-shipping-to-one-state)
-- [Choose pickup time for local pickup (only on sameday)](#choose-pickup-time-for-local-pickup-only-on-sameday)
-- [Product with no price, just for viewing](#product-with-no-price-just-for-viewing)
-- [Change Select Text for variations](#change-select-text-for-variations)
+
 
 ### Register menus
 
