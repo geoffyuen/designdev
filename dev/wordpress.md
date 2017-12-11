@@ -267,7 +267,9 @@ Result will be a select on the frontend.
 
 To apply on only some products, check a taxomomy term and then apply. You will need to write a template for the dropdown 
 and then regular input! In the cart page loop, the $product->get_id() will have a parent. Use that id with has_term to 
-see if the term is applied on the product.
+see if the term is applied on the product.*
+
+* I'm not sure how safe it is to do this as you're rewritting WC's quanity input routines. Maybe if they made this framework easier to use there wouldn't be these kinds of work arounds.
 
 Other:
 
