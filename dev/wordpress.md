@@ -262,6 +262,20 @@ Result will be a select on the frontend.
 
 - https://gist.github.com/targetimc/b92dbf2ebde2bc5e54e8967f9bf7d149
 
+### Change quantity input to select
+-https://www.cloudways.com/blog/change-display-quantity-select-box-in-woocommerce/
+
+To apply on only some products, check a taxomomy term and then apply. You will need to write a template for the dropdown 
+and then regular input! In the cart page loop, the $product->get_id() will have a parent. Use that id with has_term to 
+see if the term is applied on the product.
+
+Other:
+
+- https://www.vanpattenmedia.com/2014/code-snippet-woocommerce-quantity-select-field
+- https://gerhardpotgieter.com/2013/09/09/woocommerce-product-quantity-dropdown/
+
+### Misc
+
 - Replace "Choose and option" for variable product: http://www.howtoonlinetips.com/how-to-replace-choose-an-option-with-attribute-name-in-variation-select-menu-in-woocommerce/
   - https://wordpress.stackexchange.com/questions/99814/woocommerce-changing-the-variations-select-default-value
 - Show minimum price for variable product on shop: https://www.themelocation.com/how-to-display-minimum-price-from-multiple-variations-in-woocommerce/
@@ -269,9 +283,6 @@ Result will be a select on the frontend.
 - product search form: https://stackoverflow.com/questions/15369229/merging-a-general-wordpress-search-with-a-woocommerce-product-search
 - adjust quantity input values: https://docs.woocommerce.com/document/adjust-the-quantity-input-values/
 - product variation prices hook: https://stackoverflow.com/questions/45806249/change-product-variation-prices-via-a-hook-in-woocommerce-3
-- change quantity input yo select: https://www.cloudways.com/blog/change-display-quantity-select-box-in-woocommerce/
-  - https://www.vanpattenmedia.com/2014/code-snippet-woocommerce-quantity-select-field
-  - https://gerhardpotgieter.com/2013/09/09/woocommerce-product-quantity-dropdown/
 - get category for product page: https://stackoverflow.com/questions/15303031/woocommerce-get-category-for-product-page
 - purchase limits: https://www.cloudways.com/blog/set-purchase-limits-on-woocommerce/
 - product coming soon plugin (free): http://terrytsang.com/shop/shop/woocommerce-coming-soon-product/
