@@ -20,6 +20,8 @@
 - product class: http://docs.woothemes.com/wc-apidocs/class-WC_Product.html
 - WooCommerce object: http://docs.woothemes.com/document/class-reference/
 - snippet to put cart link in your header: https://gist.github.com/geoffyuen/505240d02b992157ccc0a771575b3f6f
+- someone's theme https://github.com/niklasravnsborg/blender-shop/blob/master/src/woocommerce.php
+- another theme https://github.com/hrsetyono/generator-edje/tree/master/templates/wc-theme/views/woo
 
 ## Woocommerce
 
