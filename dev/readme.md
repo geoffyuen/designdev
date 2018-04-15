@@ -69,6 +69,10 @@ Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vu
 - https://www.briehost.com/clients/cart.php?gid=18 $2/**year**
 - https://www.arubacloud.com/vps/virtual-private-server-range.aspx $1/mo
 
+## WordPress Hosting
+
+- https://wpcloud.ca/ 
+
 ## For Designers who think they're Web Designers
 
 - [Page weight](https://mobiforge.com/research-analysis/the-web-is-doom)
