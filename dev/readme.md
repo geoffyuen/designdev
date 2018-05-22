@@ -15,6 +15,11 @@ Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vu
 - http://stackoverflow.com/questions/9413127/using-htaccess-to-set-a-sub-directory-as-root-directory
 - http://mmenu.frebsite.nl/documentation/addons/fixed-elements.html off canvas scrollable menu
 - https://css-tricks.com/jquery-php-chat/ 
+  
+## E-commerce
+
+- https://snipcart.com/ - e-commerce solution for static/cms sites
+- https://scotch.io/tutorials/full-e-commerce-integration-of-snipcart-with-wordpress - fully integrate Snipcart into WP
 
 ## React
 
@@ -72,6 +77,7 @@ Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vu
 ## WordPress Hosting
 
 - https://wpcloud.ca/ 
+- https://spudpress.com/ - **Static** WordPress hosting
 
 ## For Designers who think they're Web Designers
 
