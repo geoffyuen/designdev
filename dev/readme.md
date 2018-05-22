@@ -18,6 +18,7 @@ Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vu
   
 ## E-commerce
 
+- http://www.fatfreecart.com/ - Paypal cart, supports product variations, shipping, handling and sales tax.
 - https://snipcart.com/ - e-commerce solution for static/cms sites
 - https://scotch.io/tutorials/full-e-commerce-integration-of-snipcart-with-wordpress - fully integrate Snipcart into WP
 
