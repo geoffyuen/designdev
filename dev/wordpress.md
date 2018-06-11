@@ -1,5 +1,9 @@
 # WordPress
 
+## General
+
+- This guys SO is a goldmine: https://wordpress.stackexchange.com/users/9364/stephen-harris
+
 ## Plugins
 
 - Login Designer: https://wordpress.org/plugins/login-designer/
