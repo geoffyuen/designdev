@@ -10,6 +10,8 @@
 - [Choose pickup time for local pickup (only on sameday)](#choose-pickup-time-for-local-pickup-only-on-sameday)
 - [Product with no price, just for viewing](#product-with-no-price-just-for-viewing)
 - [Change Select Text for variations](#change-select-text-for-variations)
+- Some dudes blog: https://wpsites.net/tag/woocommerce/
+  - https://wpsites.net/best-plugins/woocommerce-conditional-tag-checks-all-pages/
 
 ## Integrating with Timber/Twig 
 
@@ -91,6 +93,12 @@ Other:
 - https://www.vanpattenmedia.com/2014/code-snippet-woocommerce-quantity-select-field
 - https://gerhardpotgieter.com/2013/09/09/woocommerce-product-quantity-dropdown/
 
+#### Update Shipping
+
+- https://gist.github.com/neamtua/bfdc4521f5a1582f5ad169646f42fcdf
+- https://stackoverflow.com/questions/31315357/updating-woocommerce-shipping-method-via-ajax
+- https://stackoverflow.com/questions/47129882/woocommerce-checkout-update-shipping-value-more-than-once
+
 ### Misc
 
 - Replace "Choose and option" for variable product: http://www.howtoonlinetips.com/how-to-replace-choose-an-option-with-attribute-name-in-variation-select-menu-in-woocommerce/
@@ -106,3 +114,4 @@ Other:
 - min/max quanities without plugin? https://www.tychesoftwares.com/how-to-set-minimum-and-maximum-allowable-product-quantities-to-be-added-in-woocommerce-cart/
   - This one works ok: https://wordpress.org/plugins/woocommerce-max-quantity/
 - update your custom cart info area when WC uses ajax to update quantities: https://gist.github.com/geoffyuen/8646723e9279834ee3864963809b357d
+
