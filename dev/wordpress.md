@@ -202,3 +202,6 @@ Field specific:
 ```
 [text* first-name class:full class:field placeholder "FIRST NAME"]
 ```
+## ACF
+
+Put Wordpress content editor in an ACF tab: https://www.advancedcustomfields.com/resources/moving-wp-elements-content-editor-within-acf-fields/
