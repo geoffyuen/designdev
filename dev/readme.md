@@ -104,3 +104,6 @@ Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vu
 Download update here: http://www.microsoft.com/en-us/download/details.aspx?id=45134
 
 Details: https://github.com/xdissent/ievms/issues/246
+
+## PWA on iOS
+- https://medium.com/appscope/designing-native-like-progressive-web-apps-for-ios-1b3cdda1d0e8
