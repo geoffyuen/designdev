@@ -4,6 +4,7 @@ Explore all the bookmarks here or the subfolders above.
 
 ## UX
 
+- https://medium.com/codyhouse/create-your-design-system-part-1-typography-7c630d9092bd - comprehensive guide to creating a design system
 - http://blog.deathtobullshit.com/ - All you need to read is here... no, really
 - https://uxplanet.org/ux-writing-how-to-do-it-like-google-with-this-powerful-checklist-e263cc37f5f1
 
