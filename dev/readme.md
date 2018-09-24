@@ -5,6 +5,7 @@ Dev, meaning html, css, javascript. Not frontend dev using React, Angular and Vu
 ## Sass
 
 - https://medium.com/@AhmadYousefDev/useful-color-generators-in-scss-f2232a1d964e - colour management (OOCSS style)
+- https://gist.github.com/Jakobud/a0ac11e80a1de453cd86f0d3fc0a1410 - sort maps by key or value
 
 ## Programming
 
