@@ -8,7 +8,6 @@
 
 - Login Designer: https://wordpress.org/plugins/login-designer/
 - page_for_posts for cpts: https://github.com/humanmade/page-for-post-type
-- [Media Element.js](https://wordpress.org/plugins/media-element-html5-video-and-audio-player/) - WP comes with mediaelement.js - but it doesn't seem to use it on the frontend? Use this plugin. Now you can customize the player.
 
 ## Things I have to lookup every time
 
@@ -210,3 +209,20 @@ Put Wordpress content editor in an ACF tab: https://www.advancedcustomfields.com
 ## Local by Flywheel
 
 - [https://local.getflywheel.com/community/t/warning-an-unexpected-error-occurred/1431/12](Message: Server not configured properly). Also try turning off Fast Volumes in Local Preferences
+
+## Video
+
+You can paste Youtube/Vimeo urls in the editor and WP will automatically convert them to iframe embeds 
+(not responsive though). However if you want to customize how the player looks the workflow is not as convenient.
+
+In functions.php enqueue mediaelement.js:
+```
+wp_enqueue_script( "wp-mediaelement" );
+
+```
+
+Now use the video shortcode:
+
+`[video width="730" height="410" src="https://www.youtube.com/watch?v=q3nhjNMab6M"]`
+
+Unfortunately, you gotta figure out the width and height. No width=100% and height=auto.
