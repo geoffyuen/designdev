@@ -8,7 +8,7 @@
 
 - Login Designer: https://wordpress.org/plugins/login-designer/
 - page_for_posts for cpts: https://github.com/humanmade/page-for-post-type
-- [https://wordpress.org/plugins/media-element-html5-video-and-audio-player/](Media Element.js)
+- [Media Element.js](https://wordpress.org/plugins/media-element-html5-video-and-audio-player/) - WP comes with mediaelement.js - but it doesn't seem to use it on the frontend? Use this plugin. Now you can customize the player.
 
 ## Things I have to lookup every time
 
