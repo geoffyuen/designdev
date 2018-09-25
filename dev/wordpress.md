@@ -8,6 +8,7 @@
 
 - Login Designer: https://wordpress.org/plugins/login-designer/
 - page_for_posts for cpts: https://github.com/humanmade/page-for-post-type
+- [https://wordpress.org/plugins/media-element-html5-video-and-audio-player/](Media Element.js)
 
 ## Things I have to lookup every time
 
