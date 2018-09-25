@@ -204,7 +204,8 @@ Field specific:
 ```
 ## ACF
 
-Put Wordpress content editor in an ACF tab: https://www.advancedcustomfields.com/resources/moving-wp-elements-content-editor-within-acf-fields/
+- Put Wordpress content editor in an ACF tab: https://www.advancedcustomfields.com/resources/moving-wp-elements-content-editor-within-acf-fields/
+- [Set the featured image with ACF field](https://support.advancedcustomfields.com/forums/topic/set-featured-image-from-acf-image-field/)
 
 ## Local by Flywheel
 
