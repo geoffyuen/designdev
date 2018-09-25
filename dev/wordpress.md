@@ -205,3 +205,7 @@ Field specific:
 ## ACF
 
 Put Wordpress content editor in an ACF tab: https://www.advancedcustomfields.com/resources/moving-wp-elements-content-editor-within-acf-fields/
+
+## Local by Flywheel
+
+- [https://local.getflywheel.com/community/t/warning-an-unexpected-error-occurred/1431/12](Message: Server not configured properly); Also try turning off Fast Volumes in Local Preferences
