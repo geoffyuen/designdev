@@ -225,4 +225,4 @@ Now use the video shortcode:
 
 `[video width="730" height="410" src="https://www.youtube.com/watch?v=q3nhjNMab6M"]`
 
-Unfortunately, you gotta figure out the width and height. No width=100% and height=auto.
+Unfortunately, you gotta figure out the width and height. No width=100% and height=auto. Now you can override the mejs css classes. Look here for Sass source: https://github.com/mattdrose/mediaelement-skin
