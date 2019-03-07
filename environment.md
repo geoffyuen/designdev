@@ -53,3 +53,5 @@ Search for an app
 Install an app
 
 `mas install {{ id_number_from_above }}`
+
+Some great insight here: https://hackernoon.com/personal-macos-workspace-setup-adf61869cd79
