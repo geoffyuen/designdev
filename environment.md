@@ -1,6 +1,6 @@
 # Environment
 
-Maintain installed programs and migrating your apps to a new Mac
+Maintain installed programs and migrate your apps to a new Mac
 
 ## Use Homebrew to install utilities and applications
 
