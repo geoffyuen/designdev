@@ -43,10 +43,14 @@ Explore all the bookmarks here or the subfolders above.
 
 ### Accessibility
 
+- https://www.w3.org/WAI/tutorials/ - good overview
+- https://github.com/Accessible360/accessible-slick - a11y version of slickjs
+- https://thatdevgirl.com/blog/accessibility-phone-number-formatting - phone numbers - not so easy anymore...
 - https://axesslab.com/accessibility-according-to-pwd/
 
 ### Fancy it up
 
+- https://barba.js.org/ - amazing page transitions
 - https://github.com/micku7zu/vanilla-tilt.js - 3d tilt effect
 - https://www.youtube.com/watch?v=LXgmD6kGkmI - Sequential Art, Comics & SVGs
 - https://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/
